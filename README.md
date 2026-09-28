@@ -1,2 +1,2 @@
 # Project
-<p color="red",text size="5px">This is my first project</p>
+<p>This is my first project</p>
